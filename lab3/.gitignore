@@ -1,0 +1,15 @@
+/Miniconda3-latest-Linux-x86_64.sh
+/variants
+/reference
+/fastqc
+/data
+/alignment
+airflow.cfg
+airflow.db
+airflow.db-shm
+airflow.db-wal
+simple_auth_manager_passwords.json.generated
+/airflow/venv
+/airflow/plugins
+/airflow/logs
+/airflow/dags/__pycache__
